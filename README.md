@@ -24,6 +24,7 @@
 ![平面](portfolio-img/graphic-design-2.jpg)
 ![平面](portfolio-img/graphic-design-3.jpg)
 ![平面](portfolio-img/graphic-design-4.jpg)
+![平面](portfolio-img/graphic-design-4.1.jpg)
 ![平面](portfolio-img/graphic-design-5.jpg)
 ![平面](portfolio-img/graphic-design-6.jpg)
 ![平面](portfolio-img/graphic-design-7.jpg)
