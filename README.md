@@ -1,4 +1,3 @@
-# liubingbing
 ![·âÃæ](portfolio-img/face.jpg)
 ![Ä¿Â¼](portfolio-img/catalog.jpg)
 ![ÊÖ»æ](portfolio-img/hand-painted-1.jpg)
