@@ -17,10 +17,10 @@
 ![国画](portfolio-img/chinese-painting-5.jpg)
 ![国画](portfolio-img/chinese-painting-6.jpg)
 ![动漫](portfolio-img/anime-1.jpg)
-![动漫](portfolio-img/anime-2.jpg)
-![动漫](portfolio-img/anime-3.jpg)
+![动漫](portfolio-img/anime-2.gif)
+![动漫](portfolio-img/anime-3.gif)
 ![动漫](portfolio-img/anime-4.jpg)
-![动漫](portfolio-img/anime-5.jpg)
+![动漫](portfolio-img/anime-5.gif)
 ![动漫](portfolio-img/anime-6.jpg)
 ![动漫](portfolio-img/anime-7.jpg)
 
