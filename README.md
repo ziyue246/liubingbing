@@ -1,5 +1,6 @@
 ![封面](portfolio-img/cover-20180604.gif)
-![目录](portfolio-img/catalog.jpg)
+![目录](portfolio-img/cover-next.jpg)
+![目录](portfolio-img/cover-next-next.jpg)
 ![手绘](portfolio-img/hand-painted-1.jpg)
 ![手绘](portfolio-img/hand-painted-2-1.jpg)
 ![手绘](portfolio-img/hand-painted-3.jpg)
