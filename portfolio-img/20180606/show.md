@@ -1,6 +1,6 @@
 [1](01.gif)
-![2](portfolio-img/20180606/02.jpg)
-![3](portfolio-img/20180606/03.jpg)
+![2](02.jpg)
+![3](03.jpg)
 ![](portfolio-img/cover-next-next.jpg)
 ![](portfolio-img/renzhi_2.gif)
 ![](portfolio-img/renzhi_3.gif)
